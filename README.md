@@ -39,7 +39,7 @@ To build the tables and populate the database with default categories, events, o
 # Open terminal and navigate to eventra_backend
 cd C:\laragon\www\eventra\eventra_backend
 
-# Run migrations and seed the database using Laragon's PHP 8.5 executable
+# run migrations and seed the database using Laragon's PHP 8.5 executable
 C:\laragon\bin\php\php-8.5.6-Win32-vs17-x64\php.exe artisel
 ```
 
